@@ -24,11 +24,11 @@ Designing deterministic verification boundaries and sub-millisecond local toolch
 
 | Specification / Package | Daemon / CLI | Core Capability |
 | :--- | :--- | :--- |
-| **[Antigravity Universal Fleet Suite](https://gist.github.com/Tom-Zafred/e8529ed33c82a4831912de120042cf9d)** | `/agyfleet` | Turnkey single-engine fleet installer, symmetrical teardown engine, and self-healing MCP fleet manager. |
-| **[RFC-001: Autonomous Developer Workbench](https://gist.github.com/Tom-Zafred/770b1de81b74670f778be1375a3322a7)** | `workbench-guard` | Cached sub-millisecond code search, timeout-guarded polyglot test runner, cryptographic execution receipts, and mutation audits. |
-| **[RFC-002: Session Lifecycle & Context Watchdog](https://gist.github.com/Tom-Zafred/fd61ce85b081e43de5c3d36fb976e5c6)** | `session-guard` | Incremental `transcript.jsonl` delta scanner, predictive compaction proximity risk telemetry, and zero-bloat session handoff. |
-| **[RFC-003: Two-Stage Planning & Execution Gate](https://gist.github.com/Tom-Zafred/8b9baeb32cb2451c2c4d115a4e49ae8e)** | `planning-guard` | Deterministic Stage-1 discussion lock, Pre-Flight Blind-Spot Audit, and human-authorised Stage-2 execution boundary. |
-| **[RFC-004: Enterprise Rule Governance Engine](https://gist.github.com/Tom-Zafred/7be8e3efcf9b76d27945eaa3dc44ae49)** | `governance-guard` | Multi-repository ANIR rule compiler, family hierarchy synchronisation, pre-commit validation, and 1-click SQLite rollback. |
+| **[Antigravity Universal Fleet Suite (`v1.6.0`)](https://gist.github.com/Tom-Zafred/e8529ed33c82a4831912de120042cf9d)** | `/agyfleet` | Turnkey single-engine fleet installer, symmetrical teardown engine, and self-healing MCP fleet manager. |
+| **[RFC-001: Autonomous Developer Workbench (`v1.7.0`)](https://gist.github.com/Tom-Zafred/770b1de81b74670f778be1375a3322a7)** | `workbench-guard` | Cached sub-millisecond code search, 3-Zoom SQLite FTS5 encyclopaedia, timeout-guarded polyglot test runner, and cryptographic execution receipts. |
+| **[RFC-002: Session Lifecycle & Context Watchdog (`v1.7.0`)](https://gist.github.com/Tom-Zafred/fd61ce85b081e43de5c3d36fb976e5c6)** | `session-guard` | Incremental `transcript.jsonl` delta scanner, predictive compaction proximity risk telemetry, and zero-bloat session handoff. |
+| **[RFC-003: Two-Stage Planning & Execution Gate (`v2.0.0`)](https://gist.github.com/Tom-Zafred/8b9baeb32cb2451c2c4d115a4e49ae8e)** | `planning-guard` | Deterministic Stage-1 discussion lock, ANIR-Plan v2.0 Single-Call Compiler, `<3ms` `fplan` dry-run engine, Dual-Profile (`Argon` -> `Flash`) router, and Model Switch Sentry. |
+| **[RFC-004: Enterprise Rule Governance Engine (`v1.5.0`)](https://gist.github.com/Tom-Zafred/7be8e3efcf9b76d27945eaa3dc44ae49)** | `governance-guard` | Multi-repository ANIR rule compiler, family hierarchy synchronisation, pre-commit validation, and 1-click SQLite rollback. |
 
 ---
 
