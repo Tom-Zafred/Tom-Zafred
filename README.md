@@ -3,7 +3,7 @@
 **Founder & Principal Systems Architect | Biomed Systems Limited (United Kingdom)**  
 *High-Assurance Biobank & LIMS Platforms (.NET, SQL Server) | Deterministic Agentic Execution | Cryptographic Host Verification*
 
-- **Corporate Portal & Commercial Enquiries**: [https://biobanking.co.uk](https://biobanking.co.uk)
+- **Corporate Portal & Commercial Enquiries**: [Open Secure Contact Form](https://biobanking.co.uk/contact) (`https://biobanking.co.uk/contact`)
 - **Executive Contact (LinkedIn)**: [Tom Zafred](https://www.linkedin.com/in/tom-zafred-6747223a4)
 - **DEV.to Technical Publications**: [@tomzafred](https://dev.to/tomzafred)
 - **Canonical MCP Blueprints (GitHub Gists)**: [https://gist.github.com/Tom-Zafred](https://gist.github.com/Tom-Zafred)
@@ -14,16 +14,16 @@
 
 ### Commercial Advisory, Enterprise Pilot Architecture & Licensing
 
-Through **Biomed Systems Limited (UK)**, I provide paid architectural advisory, enterprise pilot engineering, and commercial licensing for organisations deploying high-assurance software and autonomous agent systems:
+Through **Biomed Systems Limited (UK)** (Registered in England & Wales · Company No. `11537514` · First Floor Office, 3 Hornton Place, London, W8 4LZ, United Kingdom), I provide fixed-scope architectural advisory, enterprise pilot engineering, and commercial customisation for organisations deploying high-assurance software and autonomous agent systems:
 
-1. **Enterprise Host-Verification Adapters & Transactional Fencing**:
-   - Designing and integrating zero-drift test mutation runners, authority-bound `HMAC-SHA256` execution receipts, and physical relational transaction fencing (`sp_getapplock`, unique correlation constraints, lock-coordinated recovery probes) for agent declaration frameworks and ERP gateways.
-2. **Regulated Biobanking & LIMS Architecture (`.NET` & Microsoft SQL Server)**:
-   - End-to-end engineering of high-integrity laboratory and cryogenic inventory platforms with strict ALCOA+ data integrity compliance, attributable audit trails, and set-based bulk SQL performance.
-3. **Sovereign AI Agent Governance & MCP Toolchains**:
-   - Bespoke enterprise deployment of deterministic two-stage planning locks, compiled ANIR constraint hierarchies, and sub-millisecond local FTS5 knowledge vaults.
+1. **Package A — Agentic Workflow & Token-Efficiency Audit (`ENQ-AUDIT`)**:
+   - Forensic analysis of agentic IDE workflows, eliminating context compaction stalls and Stage 1 subagent clones, compiling sprawling instruction files into deterministic ANIR rule hierarchies (`governance-guard`), and deploying mechanical two-stage execution gates (`planning-guard`).
+2. **Package B — Turnkey Custom MCP Server Engineering (`ENQ-MCP`)**:
+   - Fixed-scope, zero-dependency Node.js (`stdio` JSON-RPC 2.0) Model Context Protocol servers, host-verification adapters, zero-drift test mutation runners, authority-bound `HMAC-SHA256` execution receipts, and physical relational transaction fencing (`sp_getapplock`, unique correlation constraints).
+3. **Package C — Private Enterprise Fleet Customisation & Multi-Repo Rollout (`ENQ-FLEET`)**:
+   - Tailored enterprise fleet policies, cross-repository hardlink synchronisation, pre-commit sentinels, and turnkey team installers (`install.js` / `uninstall.js`) engineered with native `ALCOA+` data-integrity controls designed to support `ISO 20387:2018`-aligned biobanking and regulated life-sciences platforms (`.NET` & Microsoft SQL Server).
 
-> **Enquiries**: To discuss a paid architectural advisory sprint, enterprise pilot integration, or commercial licensing, connect via **[biobanking.co.uk](https://biobanking.co.uk)** or **[LinkedIn](https://www.linkedin.com/in/tom-zafred-6747223a4)**.
+> **Enquiries**: Submit architectural enquiries via **Biomed Systems Limited's** unified TLS-encrypted portal at **[https://biobanking.co.uk/contact](https://biobanking.co.uk/contact)** (zero exposed email addresses; quote **`ENQ-AUDIT`**, **`ENQ-MCP`**, or **`ENQ-FLEET`**) or connect via **[LinkedIn](https://www.linkedin.com/in/tom-zafred-6747223a4)**.
 
 ---
 
@@ -32,19 +32,20 @@ Through **Biomed Systems Limited (UK)**, I provide paid architectural advisory, 
 | Specification / Artefact | Identifier / Daemon | Architectural Scope |
 | :--- | :--- | :--- |
 | **[Adversarial Verification Matrix & Receipt Trust Model (`v1.1.0`)](https://gist.github.com/Tom-Zafred/6fd92cfee53d48fcfe10b8cf31689020)** | `adversarial_verification_fixture.mjs` | Standalone zero-dependency Node.js reference fixture proving negative-control mutation probing, zero-drift restoration, lockfile/dotfile drift detection, and authority-bound `HMAC-SHA256` receipts. |
-| **[Antigravity Universal Fleet Suite (`v1.8.0`)](https://gist.github.com/Tom-Zafred/e8529ed33c82a4831912de120042cf9d)** | `/agyfleet` | Turnkey single-engine fleet installer, symmetrical teardown engine, and self-healing MCP fleet manager. |
-| **[RFC-001: Autonomous Developer Workbench (`v1.8.0`)](https://gist.github.com/Tom-Zafred/770b1de81b74670f778be1375a3322a7)** | `workbench-guard` | Sub-millisecond code search, 3-Zoom SQLite FTS5 encyclopaedia, timeout-guarded polyglot test runner, and cryptographic execution receipts. |
-| **[RFC-002: Session Lifecycle & Context Watchdog (`v1.7.0`)](https://gist.github.com/Tom-Zafred/fd61ce85b081e43de5c3d36fb976e5c6)** | `session-guard` | Incremental `transcript.jsonl` delta scanner, predictive compaction proximity risk telemetry, and zero-bloat session handoff. |
-| **[RFC-003: Two-Stage Planning & Execution Gate (`v2.2.0`)](https://gist.github.com/Tom-Zafred/8b9baeb32cb2451c2c4d115a4e49ae8e)** | `planning-guard` | Deterministic Stage-1 discussion lock, ANIR-Plan v2.2 Engine, Step-Model Governor, Flight-Deck HUD & Promo-Cutoff Zero-Bloat Shield. |
-| **[RFC-004: Enterprise Rule Governance Engine (`v1.6.0`)](https://gist.github.com/Tom-Zafred/7be8e3efcf9b76d27945eaa3dc44ae49)** | `governance-guard` | Multi-repository ANIR rule compiler, family hierarchy synchronisation, pre-commit validation, and 1-click SQLite rollback. |
+| **[Antigravity Universal Fleet Suite (`v2.0.2`)](https://gist.github.com/Tom-Zafred/e8529ed33c82a4831912de120042cf9d)** | `/agyfleet` | Turnkey single-engine fleet installer (`package.json` + `verify.js` manifest parity), symmetrical teardown engine, loopback `RefreshMcpServers`, and self-healing MCP fleet manager. |
+| **[RFC-001: Autonomous Developer Workbench (`v1.8.2`)](https://gist.github.com/Tom-Zafred/770b1de81b74670f778be1375a3322a7)** | `workbench-guard` | Sub-millisecond code search, 3-Zoom SQLite FTS5 encyclopaedia, bounded closed-DB protobuf telemetry auditor, Doctor lock heal, timeout-guarded polyglot test runner, and cryptographic execution receipts. |
+| **[RFC-002: Session Lifecycle & Context Watchdog (`v2.4.3`)](https://gist.github.com/Tom-Zafred/fd61ce85b081e43de5c3d36fb976e5c6)** | `session-guard` | Live prompt-token context watchdog, incremental `transcript.jsonl` delta scanner, dead-PPID MCP reaper, `64 KB` LS exit-tail preserver, and fused 1-call `/resume` handoff. |
+| **[RFC-003: Two-Stage Planning & Execution Gate (`v3.2.2`)](https://gist.github.com/Tom-Zafred/8b9baeb32cb2451c2c4d115a4e49ae8e)** | `planning-guard` | Deterministic Stage 1 discussion lock, Stage 1 synchronous MCP reconnaissance + Carbon-clone advisory (`BS-6`), ANIR-Plan v3.0 Engine, decoupled Carbon/Hydrogen sprints, Windows SVN worktree sentry, and DB error fast-path. |
+| **[RFC-004: Enterprise Rule Governance Engine (`v1.7.1`)](https://gist.github.com/Tom-Zafred/7be8e3efcf9b76d27945eaa3dc44ae49)** | `governance-guard` | Multi-repository ANIR rule compiler, zero-latency hardlink synchronisation, clean `stdin`-EOF IPC pipe release, SVN worktree compliance lock, and pre-commit validation. |
 
 ---
 
-### Selected Technical Deep-Dives (DEV.to)
+### Selected Technical Publications & Empirical Case Studies
 
-- **["All 42 Tests Passed" (They Didn't): Why Coding Agents Lie About Verification - And How to Force the Truth](https://dev.to/tomzafred/all-42-tests-passed-they-didnt-why-coding-agents-lie-about-verification-and-how-to-force-32id)**
-- **[Cutting Coding Agent Token Burn by 65%: A Two-Stage Discussion Lock and 2-Turn MCP Execution Loop](https://dev.to/tomzafred/cutting-coding-agent-token-burn-by-65-a-two-stage-discussion-lock-and-2-turn-mcp-execution-loop-49e3)**
-- **[The Pink Elephant in the Token Window: Why Transformer Self-Attention Hates Your "DO NOT" Rules](https://dev.to/tomzafred/the-pink-elephant-in-the-token-window-why-transformer-self-attention-hates-your-do-not-rules-569a)**
+- **["All 42 Tests Passed" — And the Feature Didn't Work](https://discuss.ai.google.dev/t/all-42-tests-passed-and-the-feature-didnt-work-how-i-stopped-my-coding-agent-from-faking-test-results/195955?u=dllhell)** *(Google AI Developer Forum)* | **[DEV.to Edition](https://dev.to/tomzafred/all-42-tests-passed-they-didnt-why-coding-agents-lie-about-verification-and-how-to-force-32id)**
+- **[Desktop IDE Performance, SQLite WAL I/O & Memory Limits](https://discuss.ai.google.dev/t/desktop-app-performance-and-memory-limits/192071/2?u=dllhell)** *(Google AI Developer Forum)*
+- **[Cutting Coding Agent Token Burn by 65%: A Two-Stage Discussion Lock and 2-Turn MCP Execution Loop](https://dev.to/tomzafred/cutting-coding-agent-token-burn-by-65-a-two-stage-discussion-lock-and-2-turn-mcp-execution-loop-49e3)** *(DEV.to)*
+- **[The Pink Elephant in the Token Window: Why Transformer Self-Attention Hates Your "DO NOT" Rules](https://dev.to/tomzafred/the-pink-elephant-in-the-token-window-why-transformer-self-attention-hates-your-do-not-rules-569a)** *(DEV.to)*
 
 ---
 
